@@ -6,7 +6,7 @@ Se tiver qualquer dúvida pode me perguntar sem problemas.
 
 #### Objetivo:
 Seu Objetivo é entregar uma web application que retorne o cálculo fatorial.<br>
-Este deverá ser disponibilizado em uma url.<br>
+Esta deverá ser disponibilizada em uma url.<br>
 Toda a solução de CI/CD deve funcionar em um cluster de Kubernetes criado via terraform.
 
 #### Considerações:
