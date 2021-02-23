@@ -14,7 +14,7 @@ Toda a solução de CI/CD deve funcionar em um cluster de Kubernetes criado via 
 - Use de preferência GKE ou EKS
 - Utilize Jenkins de preferência
 - Utilize o GitLab como repositório
-
+- Criar monitoramentos com Prometheus e dash com Grafana será um diferencial
 #### Resultados:
 - Esperamos a Url com a aplicação;
 - Esperamos um pequeno **Readme** do projeto para fazermos deploy da aplicação;
